@@ -2,7 +2,7 @@
   "name": "retext-shopify",
   "version": "0.1.0",
   "description": "Warn about Shopify style guide violations with Retext",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "files": [
     "index.js",
