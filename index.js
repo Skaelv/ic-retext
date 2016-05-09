@@ -84,9 +84,9 @@ var list = keys(patterns);
 
             message.ruleId = phrase;
             message.source = 'retext-shopify';
-            });
             }
 
+        }, {'allowApostrophes': false, 'allowDashes': true});
 
     return transformer;
 }
