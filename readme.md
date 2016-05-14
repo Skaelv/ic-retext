@@ -158,33 +158,11 @@ warnings:
 
 2.  Open `test.js` in a text editor.
 
-3.  Add the strings you want to test to the list, in single quotes and separated
-    by commas:
-
-    ```js
-    retext()
-        .use(shopify)
-        .process([
-            'I love using Liquid.',
-            'I love using liquid.',
-            'I\'m on the Shopify unlimited Plan',
-            'I\'m on the Shopify Unlimited plan',
-            'I\'m on the Shopify UnLimited plan',
-            'Check out Shopify point of sale',
-            'Check out shopify point of sale',
-            '!'
-        ].join('\n'), function (err, file) {
-            console.log(report(file));
-        });
-    ```
+3.  Add any tests required to check your rules, following the existing format.
 
 4.  Save `test.js`.
 
-5.  In your terminal, run `node test.js` to see the results of running
-    **rorybot** on those strings using the **retext-shopify** library. If you
-    want to output the result to a file in the same directory, run
-    `node test.js | tee output.txt` (but you can call `output.txt` whatever you
-    want).
+5.  In your terminal, run `npm install` and then `npm test` to make sure the style is correct and all the tests pass.
 
 6.  Check your JSON in a [JSON validator](http://jsonlint.com/) if you run
     into issues.
