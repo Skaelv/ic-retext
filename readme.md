@@ -162,7 +162,9 @@ warnings:
 
 4.  Save `test.js`.
 
-5.  In your terminal, run `npm install` to ensure all dependencies are up to date and then run `npm test` to make sure the style is correct and all the tests pass.
+5.  In your terminal, run `npm install` to ensure all dependencies are up to
+    date and then run `npm test` to make sure the style is correct and all 
+    the tests pass.
 
 6.  Check your JSON in a [JSON validator](http://jsonlint.com/) if you run
     into issues.
