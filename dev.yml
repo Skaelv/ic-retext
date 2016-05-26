@@ -1,0 +1,5 @@
+---
+name: retext-shopify
+up:
+- node:
+    version: v5.7.0
