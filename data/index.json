@@ -131,6 +131,10 @@
     "replace": "click",
     "note": "Use controlled vocabulary."
   },
+    "clicking on": {
+    "replace": "clicking",
+    "note": "Use controlled vocabulary."
+  },
   "would like to": {
     "replace": "want to",
     "note": "Use controlled vocabulary."
