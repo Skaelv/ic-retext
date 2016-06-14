@@ -135,6 +135,14 @@
     "replace": "clicking",
     "note": "Use controlled vocabulary."
   },
+    "tap on": {
+    "replace": "tap",
+    "note": "Use controlled vocabulary."
+  },
+    "tapping on": {
+    "replace": "tapping",
+    "note": "Use controlled vocabulary."
+  },
   "would like to": {
     "replace": "want to",
     "note": "Use controlled vocabulary."
