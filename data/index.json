@@ -170,5 +170,9 @@
     "drop down menu": {
     "replace": ["drop-down menu"],
     "note": "Hyphenate this term."
+  },
+  "timeline": {
+    "replace": ["Timeline"],
+    "note": "Timeline is capitalized when referring to the feature in the Shopify admin."
   }
 }
