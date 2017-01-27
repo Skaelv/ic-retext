@@ -4,7 +4,7 @@
     "note": "Always capitalize Intercom."
   },
   "messenger": {
-    "replace": ["Messenger","Intercom Messenger"]
+    "replace": ["Messenger","Intercom Messenger"],
     "note": "Capitalize 'M' when referring to Intercom Messenger."
   },
   "help center": {
@@ -36,11 +36,11 @@
     "note": "Incorrect branded name."
   },
   "the messenger": {
-    "replace": ["Messenger", "Intercom Messenger"]
+    "replace": ["Messenger", "Intercom Messenger"],
     "note": "Never use the in front of Messenger."
   },
   "team mate": {
-    "replace": ["teammate"]
+    "replace": ["teammate"],
     "note": "All one word. Only capitalize at the start of a sentence."
   },
   "e.g.": {
@@ -56,15 +56,15 @@
     "note": "Avoid Latin abbreviations."
   },
   "ie": {
-    "replace": ["that is", "such as"]
+    "replace": ["that is", "such as"],
     "note": "Avoid Latin abbreviations."
   },
   "i.e.": {
-    "replace": ["that is", "such as"]
+    "replace": ["that is", "such as"],
     "note": "Avoid Latin abbreviations."
   },
   "ie.": {
-    "replace": ["that is", "such as"]
+    "replace": ["that is", "such as"],
     "note": "Avoid Latin abbreviations."
   },
    "via": {
