@@ -66,7 +66,7 @@ function attacher(processor, options) {
                     message += ' (' + note + ')';
                 }
             } else if (matchedString !== replace){
-                message = value + ' is not Shopify style. Use ' + newvalue +
+                message = value + ' is not Intercom style. Use ' + newvalue +
                     ' instead.';
 
                 if (note) {
